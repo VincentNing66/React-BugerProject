@@ -16,7 +16,6 @@ const SideDraw = (props) => {
 
                 <NavigationItems />
             </div>
-
         </Fragment>
     );
 }
